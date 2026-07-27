@@ -2,6 +2,8 @@
 
 AI-assisted classroom platform · PC Web、macOS、iOS 与 Agent 工具链。
 
+**产品文档（公开站）：** [https://listen-class.github.io/](https://listen-class.github.io/) · [文档目录](https://listen-class.github.io/guide/)
+
 ## Repository Map · 仓库地图
 
 | Repo | Role |
@@ -28,6 +30,6 @@ AI-assisted classroom platform · PC Web、macOS、iOS 与 Agent 工具链。
 
 ## Quick Links · 快速入口
 
-[skill](https://github.com/listen-class/skill) · [cli](https://github.com/listen-class/cli) · [test](https://github.com/listen-class/test) · [web](https://github.com/listen-class/web) · [mac-app](https://github.com/listen-class/mac-app) · [ios-app](https://github.com/listen-class/ios-app) · [docs](https://github.com/listen-class/docs) · [agent](https://github.com/listen-class/agent) · [server](https://github.com/listen-class/server)
+[产品文档站](https://listen-class.github.io/) · [skill](https://github.com/listen-class/skill) · [cli](https://github.com/listen-class/cli) · [test](https://github.com/listen-class/test) · [web](https://github.com/listen-class/web) · [mac-app](https://github.com/listen-class/mac-app) · [ios-app](https://github.com/listen-class/ios-app) · [docs](https://github.com/listen-class/docs) · [agent](https://github.com/listen-class/agent) · [server](https://github.com/listen-class/server)
 
 ---
