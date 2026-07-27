@@ -1,24 +1,23 @@
 # 林森课堂 / Listen Class
 
-AI-assisted classroom platform — PC Web, Mac desktop, iOS, and agent tooling.
+AI-assisted classroom platform · PC Web、macOS、iOS 与 Agent 工具链。
 
 ## Repository Map · 仓库地图
 
 | Repo | Role |
 |------|------|
-| [**web**](https://github.com/listen-class/web) | PC Web |
-| [**mac-app**](https://github.com/listen-class/mac-app) | Mac desktop (Tauri) |
-| [**ios-app**](https://github.com/listen-class/ios-app) | iOS app |
-| [**docs**](https://github.com/listen-class/docs) | PRD / design / product docs |
 | [**skill**](https://github.com/listen-class/skill) | Cursor Agent Skill |
-| [**cli**](https://github.com/listen-class/cli) | CLI + start/verify scripts |
-| [**agent**](https://github.com/listen-class/agent) | Python AI agent (LangChain / LangGraph, YOLO & media tools) |
-| [**server**](https://github.com/listen-class/server) | Java product server |
-| [**platform**](https://github.com/listen-class/platform) | Optional legacy monorepo umbrella |
+| [**cli**](https://github.com/listen-class/cli) | CLI + start / verify 脚本（原 `tools` 已并入） |
+| [**web**](https://github.com/listen-class/web) | PC Web |
+| [**mac-app**](https://github.com/listen-class/mac-app) | macOS 桌面端（原 `client`） |
+| [**ios-app**](https://github.com/listen-class/ios-app) | iOS（原 `ios`） |
+| [**docs**](https://github.com/listen-class/docs) | PRD / 设计 / 产品文档 |
+| [**agent**](https://github.com/listen-class/agent) | Python Agent（LangGraph / LangChain + YOLO 等媒体工具） |
+| [**server**](https://github.com/listen-class/server) | Java 产品服务端 |
+| [**platform**](https://github.com/listen-class/platform) | 历史单体对照仓（可选） |
 
-> **Note:** `tools` is deprecated — use [`cli`](https://github.com/listen-class/cli) for scripts and tooling going forward.
+> **`tools` 已废弃** — 请使用 [`cli`](https://github.com/listen-class/cli)。该仓不应再作为入口。
 
 ## Quick Links · 快速入口
 
-- [Web](https://github.com/listen-class/web) · [Mac App](https://github.com/listen-class/mac-app) · [iOS](https://github.com/listen-class/ios-app)
-- [Docs](https://github.com/listen-class/docs) · [Server](https://github.com/listen-class/server) · [Agent](https://github.com/listen-class/agent)
+[skill](https://github.com/listen-class/skill) · [cli](https://github.com/listen-class/cli) · [web](https://github.com/listen-class/web) · [mac-app](https://github.com/listen-class/mac-app) · [ios-app](https://github.com/listen-class/ios-app) · [docs](https://github.com/listen-class/docs) · [agent](https://github.com/listen-class/agent) · [server](https://github.com/listen-class/server)
