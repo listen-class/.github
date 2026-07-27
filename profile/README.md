@@ -20,7 +20,7 @@ AI-assisted classroom platform · PC Web、macOS、iOS 与 Agent 工具链。
 ### Not first-class
 
 - **`bin`** — 不是独立仓；由 `cli` 安装 `listen` 到系统 PATH
-- **`tools`** — 已废弃（归档/重命名）；请用 `cli` + `test`
+- `**tools-archived**` — 已废弃（原 `tools`）；请用 `cli` + `test`
 
 ## Quick Links · 快速入口
 
